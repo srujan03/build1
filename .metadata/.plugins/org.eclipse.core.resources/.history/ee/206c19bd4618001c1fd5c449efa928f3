@@ -1,0 +1,13 @@
+package xlUtility;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class excelReader {
+	static XSSFWorkbook workbook ; 
+	static XSSFSheet sheet;
+	public excelReader() {
+		
+	}
+
+}
