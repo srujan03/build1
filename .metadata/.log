@@ -248,3 +248,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/srujan03/build1.g
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-20 17:19:38.911
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\Shady\git\build1\.git]
